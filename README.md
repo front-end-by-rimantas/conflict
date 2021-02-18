@@ -1,4 +1,5 @@
 # Rimantas conflict
+# Mindaugas conflict
 
 HEADER
 
@@ -7,5 +8,7 @@ HEADER
 Labas
 
 2) Mindaugas: parašyk "Labas", bet NELIESK 1 eilutės
+
+Labas
 
 FOOTER
